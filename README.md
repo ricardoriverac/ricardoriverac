@@ -3,3 +3,4 @@
 - Linguagens que eu utilizo: ReactJS; VueJS; Spring-Boot
 - 🌱 Estou atualmente procurando aprimorar minhas habilidades nas areas da programação
 - 📫 Contato: ricardoriverac.gt@gmail.com | Linkedin: https://www.linkedin.com/in/ricardo-rivera-campos-814809204/
+- Atualmente faço Sistemas de Informação na Fagammon
